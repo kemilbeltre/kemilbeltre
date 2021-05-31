@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/kemilbeltre)
+![Metrics](https://metrics.lecoq.io/kemilbeltre?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&notable.repositories=false&config.timezone=Europe%2FLondon)
