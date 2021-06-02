@@ -3,10 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kemilbeltre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kemilbeltre" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kemilbeltre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="kemilbeltre" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/kemilbeltre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kemilbeltre" height="30" width="40" /></a>
-<a href="https://dev.to/kemilbeltre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kemilbeltre" height="30" width="40" /></a>
-<a href="https://codepen.io/kemilbeltre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="kemilbeltre" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/kbeltre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="kbeltre" height="30" width="40" /></a>  
+<a href="https://twitter.com/kemilbeltre" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="kemilbeltre" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/kemilbeltre" target="blank"><img align="center" src="https://simpleicons.org/icons/stackoverflow.svg" alt="kemilbeltre" height="30" width="40" /></a>
+<a href="https://instagram.com/kemilbeltre" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="kemilbeltre" height="30" width="40" /></a>
+<a href="https://dev.to/kemilbeltre" target="blank"><img align="center" src="https://simpleicons.org/icons/devdotto.svg" alt="kemilbeltre" height="30" width="40" /></a>
+<a href="https://codepen.io/kemilbeltre" target="blank"><img align="center" src="https://simpleicons.org/icons/codepen.svg" alt="kemilbeltre" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kbeltre" target="blank"><img align="center" src="https://simpleicons.org/icons/leetcode.svg" alt="kbeltre" height="30" width="40" /></a>  
 </p>
