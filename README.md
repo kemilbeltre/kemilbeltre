@@ -6,7 +6,7 @@
 <a href="https://twitter.com/kemilbeltre" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="kemilbeltre" height="30" width="40" /></a>
 <a href="https://instagram.com/kemilbeltre" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="kemilbeltre" height="30" width="40" /></a>
 <a href="http://linkedin.com/in/kemilbeltre" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="kemilbeltre" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kemilbeltre" target="blank"><img align="center" src="https://simpleicons.org/icons/stackoverflow.svg" alt="kemilbeltre" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/148068" target="blank"><img align="center" src="https://simpleicons.org/icons/stackoverflow.svg" alt="kemilbeltre" height="30" width="40" /></a>
   <!--
 <a href="https://dev.to/kemilbeltre" target="blank"><img align="center" src="https://simpleicons.org/icons/devdotto.svg" alt="kemilbeltre" height="30" width="40" /></a>
 <a href="https://codepen.io/kemilbeltre" target="blank"><img align="center" src="https://simpleicons.org/icons/codepen.svg" alt="kemilbeltre" height="30" width="40" /></a>
